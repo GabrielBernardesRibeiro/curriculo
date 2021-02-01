@@ -3,7 +3,7 @@
 ✉️ gabriel.bernardes.ribeiro@usp.br
 
 Resumo:
-	Sou estudante do curso de Matemática Aplicada a Negócios da USP de Ribeirão Preto e estou à procura de uma vaga para programador júnior.
+	Sou estudante do curso de Matemática Aplicada a Negócios da USP de Ribeirão Preto.
  	Estudo programação de jogos e participo como colaborador no desenvolvimento de um jogo para trabalho de mestrado na área da saúde.
  	Faço parte da entidade Gaming Club da USP-RP, na qual atualmente desenvolvo um jogo educativo que tem como objetivo ser aplicado em escolas para o ensino das ODS criadas pela ONU.
 
