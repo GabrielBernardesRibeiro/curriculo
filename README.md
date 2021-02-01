@@ -9,7 +9,7 @@ Resumo:
 
 Habilidades:
 	 Java / Python / C 
-  / MySql / SQL Server 
+  / MySql
   / PHP / JavaScript / HTML / CSS 
 
 Graduação:
