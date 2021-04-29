@@ -8,7 +8,7 @@ Resumo:
  	Faço parte da entidade Gaming Club da USP-RP, na qual atualmente desenvolvo um jogo educativo que tem como objetivo ser aplicado em escolas para o ensino das ODS criadas pela ONU.
 
 Habilidades:
-	 Java / Python / C 
+	 Python / C 
   / MySql
   / PHP / JavaScript / HTML / CSS 
 
